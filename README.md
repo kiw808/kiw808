@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- :seedling: I'm a junior web developer, currently finishing my training at ![Wild Code School](https://www.wildcodeschool.com) Strasbourg, France. I'm mostly learning :elephant: PHP and the Symfony framework, but i'm also able to do basic front-end stuff !
+- :mag_right: I'm currently looking for internship opportunities, so don't hesitate to hit me up !
+
+###### 📫 How to reach me:
+- LinkedIn : ![pierremullersxb](https://www.linkedin.com/in/pierremullersxb/)
+
 <!--
 **kiw808/kiw808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
